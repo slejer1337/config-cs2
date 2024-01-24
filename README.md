@@ -1,2 +1,2 @@
 # config-cs2
-+exec autoexec -threads 5 -high -fullscreen -w 1024 -h 768 -refresh 120 -freq 120 -novid -nojoy +joystick_force_disabled
+-threads 5 +exec autoexec -novid -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high -nojoy +joystick_force_disabled
