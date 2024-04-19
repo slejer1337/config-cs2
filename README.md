@@ -19,11 +19,11 @@
 |-----------------------------------------------|-----------------------|
 | DPI                                           | **800**               |
 | Sensitivity                                   | **0.90**              |
-| eDPI                                          | **720**               |
 | Zoom Sensitivity                              | **1**                 |
 | Hz                                            | **1000 Hz**           |
-| Windows Sensitivity                           | **6/11**              |
 | m_yaw                                         | **0.022**             |
+| Windows Sensitivity                           | **6/11**              |
+| eDPI                                          | **720**               |
 | cm/360°                                       | **57.73 cm**          |
 
 # ・Video
