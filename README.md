@@ -11,6 +11,7 @@
 | eDPI                                          | **720**               |
 | cm/360°                                       | **57.73 cm**          |
 
+
 # ・Crosshair
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
@@ -33,6 +34,7 @@
 | Sniper Width                                  | **1**                 |
 > CSGO-PHity-FJJJn-Oa9DP-fZcop-Z9GSQ
 
+
 # ・Viewmodel
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
@@ -44,8 +46,10 @@
 | Bob                                           | **True**              |
 > viewmodel_fov 68;viewmodel_offset_x 2.5;viewmodel_offset_y 0;viewmodel_offset_z -1.5;viewmodel_presetpos 3
 
+
 # ・Launch Options
 > -threads 9 +exec autoexec -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high -nojoy +joystick_force_disabled
+
 
 # ・Video
 | Settings                                      | Options               |
@@ -55,6 +59,7 @@
 | Resolution                                    | **1280x960 (Stretched)**|
 | Display Mode                                  | **Pełny ekran**       |
 | Refresh rate                                  | **170 Hz**            |
+
 
 # ・Advanced Video
 | Settings                                      | Options               |
@@ -72,6 +77,7 @@
 | FidelityFX Super Resolution              | **Disabled (Highest Quality)**|
 | NVIDIA Reflex Low Latency                     | **Enabled**           |
 
+
 # ・HUD
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
@@ -81,6 +87,7 @@
 | Safezone X                                    | **1.0**               |
 | Safezone Y                                    | **1.0**               |
 > hud_scaling 0.9;cl_hud_color 0;cl_showloadout 1;safezonex 1;safezoney 1
+
 
 # ・Radar
 | Settings                                      | Options               |
