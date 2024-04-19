@@ -17,6 +17,9 @@
 # ・Viewmodel
 `viewmodel_fov 68;viewmodel_offset_x 2.5;viewmodel_offset_y 0;viewmodel_offset_z -1.5;viewmodel_presetpos 3`
 
+# ・Launch Options
+> -threads 9 +exec autoexec -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high -novid -nojoy +joystick_force_disabled
+
 # ・Video
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
@@ -47,6 +50,3 @@
 
 # ・Radar
 `cl_hud_radar_scale 1.15;cl_radar_scale 0.35;cl_radar_always_centered 0;cl_radar_rotate 0;cl_radar_icon_scale_min 0.9`
-
-# ・Launch Options
-> -threads 9 +exec autoexec -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high -novid -nojoy +joystick_force_disabled
