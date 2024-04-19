@@ -29,7 +29,7 @@ cm/360° - 57.73 cm
 |-----------------------------------------------|-----------------------|
 | Jasność                                       | **93%**               |
 | Proporcje ekranu                              | **4:3**               |
-| Resolution                                    | **1280x960 (STRETCHED)**|
+| Rozdzielczość                                 | **1280x960 (ROZCIĄGNIĘTE)**|
 | Tryb wyświetlania                             | **Pełny ekran**       |
 | Refresh Rate                                  | **170 Hz**            |
 
