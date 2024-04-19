@@ -45,5 +45,5 @@ Refresh Rate - 170 Hz
 | **Niskie**            | Szczegóły cząsteczek                          |
 | **Wył.**              | Okluzja otoczenia                             |
 | **Jakość**            | High Dynamic Range                            |
-| **(najwyższa jakość)**| FidelityFX Super Resolution                   |
+| **Wył. (najwyższa jakość)**| FidelityFX Super Resolution                   |
 | **Wł.**               | Tryb niskiego opóźnienia NVIDIA Reflex        |
