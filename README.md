@@ -33,6 +33,7 @@ Refresh Rate - 170 Hz
 
 
 # ・Zaawansowane ustawienia obrazu
+| Opcje                 | Ustawienia                                    |
 |-----------------------|-----------------------------------------------|
 | **Wł.**               | Zwiększ kontrast graczy                       |
 | **Wył.**              | Czekaj na synchronizację pionową              |
@@ -44,5 +45,5 @@ Refresh Rate - 170 Hz
 | **Niskie**            | Szczegóły cząsteczek                          |
 | **Wył.**              | Okluzja otoczenia                             |
 | **Jakość**            | High Dynamic Range                            |
-| **Wył. (najwyższa jakość)** | FidelityFX Super Resolution             |
+| **(najwyższa jakość)**| FidelityFX Super Resolution                   |
 | **Wł.**               | Tryb niskiego opóźnienia NVIDIA Reflex        |
