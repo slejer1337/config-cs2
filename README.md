@@ -14,15 +14,17 @@
 # ・Radar
 `cl_hud_radar_scale 1.15;cl_radar_scale 0.35;cl_radar_always_centered 0;cl_radar_rotate 0;cl_radar_icon_scale_min 0.9`
 
-// Ustawienia myszy
-DPI - 800
-Czułość myszy - 0.9
-Mnożnik czułości przybliżenia - 1
-HZ - 1000 Hz
-m_yaw - 0.022
-Szybkość wskaźnika (Windows) - 6 / 11
-EDPI - 720
-cm/360° - 57.73 cm
+# ・Ustawienia myszy
+| Ustawienia                                    | Opcje                 |
+|-----------------------------------------------|-----------------------|
+| DPI                                           | **800**               |
+| Czułość myszy                                 | *0.90**               |
+| Mnożnik czułości przybliżenia                 | **1**                 |
+| HZ                                            | **1000 Hz**           |
+| m_yaw                                         | **0.022**             |
+| Szybkość wskaźnika (Windows)                  | **6 / 11**            |
+| EDPI                                          | **720**               |
+| cm/360°                                       | **57.73 cm**          |
 
 # ・Obraz
 | Ustawienia                                    | Opcje                 |
@@ -31,7 +33,7 @@ cm/360° - 57.73 cm
 | Proporcje ekranu                              | **4:3**               |
 | Rozdzielczość                                 | **1280x960 (ROZCIĄGNIĘTE)**|
 | Tryb wyświetlania                             | **Pełny ekran**       |
-| Refresh Rate                                  | **170 Hz**            |
+| Częstotliwość odświeżania                     | **170 Hz**            |
 
 # ・Zaawansowane ustawienia obrazu
 | Ustawienia                                    | Opcje                 |
