@@ -1,4 +1,4 @@
-#  Config Counter Strike 2
+#  CS2 Settings
 # ・Mouse
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
