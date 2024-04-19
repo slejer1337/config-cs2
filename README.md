@@ -33,17 +33,17 @@ Refresh Rate - 170 Hz
 
 
 # ・Zaawansowane ustawienia obrazu
-| Opcje                 | Ustawienia                                    |
-|-----------------------|-----------------------------------------------|
-| **Wł.**               | Zwiększ kontrast graczy                       |
-| **Wył.**              | Czekaj na synchronizację pionową              |
-| **2x MSAA**           | Tryb antyaliasingu (multisampling)            |
-| **Niska**             | Ogólna jakość cieni                           |
-| **Średnie**           | Szczegóły modeli/tekstur                      |
-| **Anizotropowe 16X**  | Tryb filtrowania tekstur                      |
-| **Niska**             | Detale shadera                                |
-| **Niskie**            | Szczegóły cząsteczek                          |
-| **Wył.**              | Okluzja otoczenia                             |
-| **Jakość**            | High Dynamic Range                            |
-| **Wył. (najwyższa jakość)**| FidelityFX Super Resolution                   |
-| **Wł.**               | Tryb niskiego opóźnienia NVIDIA Reflex        |
+| Ustawienia                                    | Opcje                 |
+|-----------------------------------------------|-----------------------|
+| Zwiększ kontrast graczy                       | **Wł.**               |
+| Czekaj na synchronizację pionową              | **Wył.**              |
+| Tryb antyaliasingu (multisampling)            | **2x MSAA**           |
+| Ogólna jakość cieni                           | **Niska**             |
+| Szczegóły modeli/tekstur                      | **Średnie**           |
+| Tryb filtrowania tekstur                      | **Anizotropowe 16X**  |
+| Detale shadera                                | **Niska**             |
+| Szczegóły cząsteczek                          | **Niskie**            |
+| Okluzja otoczenia                             | **Wył.**              |
+| High Dynamic Range                            | **Jakość**            |
+| FidelityFX Super Resolution              | **Wył. (najwyższa jakość)**|
+| Tryb niskiego opóźnienia NVIDIA Reflex        | **Wł.**               |
