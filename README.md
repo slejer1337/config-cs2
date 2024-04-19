@@ -15,8 +15,8 @@ hud_scaling 0.9;cl_hud_color 0;cl_showloadout 1;safezonex 1;safezoney 1
 cl_hud_radar_scale 1.15;cl_radar_scale 0.35;cl_radar_always_centered 0;cl_radar_rotate 0;cl_radar_icon_scale_min 0.9
 
 // Ustawienia myszy
-/DPI - 800
-/Czułość myszy - 0.9
+// DPI - 800
+// Czułość myszy - 0.9
 Mnożnik czułości przybliżenia - 1
 HZ - 1000 Hz
 m_yaw - 0.022
