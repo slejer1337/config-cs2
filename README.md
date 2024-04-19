@@ -1,8 +1,8 @@
 #  Config Counter Strike 2
-# ・Opcje uruchamiania
+# ・Launch Options
 `-threads 9 +exec autoexec -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high -novid -nojoy +joystick_force_disabled`
 
-# ・Celownik
+# ・Crosshair
 `CSGO-PHity-FJJJn-Oa9DP-fZcop-Z9GSQ`
 
 # ・Viewmodel
@@ -14,39 +14,39 @@
 # ・Radar
 `cl_hud_radar_scale 1.15;cl_radar_scale 0.35;cl_radar_always_centered 0;cl_radar_rotate 0;cl_radar_icon_scale_min 0.9`
 
-# ・Ustawienia myszy
-| Ustawienia                                    | Opcje                 |
+# ・Mouse
+| Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
 | DPI                                           | **800**               |
-| Czułość myszy                                 | **0.90**              |
-| Mnożnik czułości przybliżenia                 | **1**                 |
-| HZ                                            | **1000 Hz**           |
+| Sensitivity                                   | **0.90**              |
+| eDPI                                          | **720**               |
+| Zoom Sensitivity                              | **1**                 |
+| Hz                                            | **1000 Hz**           |
+| Windows Sensitivity                           | **6/11**              |
 | m_yaw                                         | **0.022**             |
-| Szybkość wskaźnika (Windows)                  | **6 / 11**            |
-| EDPI                                          | **720**               |
 | cm/360°                                       | **57.73 cm**          |
 
-# ・Obraz
-| Ustawienia                                    | Opcje                 |
+# ・Video
+| Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
-| Jasność                                       | **93%**               |
-| Proporcje ekranu                              | **4:3**               |
-| Rozdzielczość                                 | **1280x960 (ROZCIĄGNIĘTE)**|
-| Tryb wyświetlania                             | **Pełny ekran**       |
-| Częstotliwość odświeżania                     | **170 Hz**            |
+| Brightness                                    | **93%**               |
+| Aspect Ratio                                  | **4:3**               |
+| Resolution                                    | **1280x960 (Stretched)**|
+| Display Mode                                  | **Pełny ekran**       |
+| Refresh rate                                  | **170 Hz**            |
 
-# ・Zaawansowane ustawienia obrazu
-| Ustawienia                                    | Opcje                 |
+# ・Advanced Video
+| Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
-| Zwiększ kontrast graczy                       | **Wł.**               |
-| Czekaj na synchronizację pionową              | **Wył.**              |
-| Tryb antyaliasingu (multisampling)            | **2x MSAA**           |
-| Ogólna jakość cieni                           | **Niska**             |
-| Szczegóły modeli/tekstur                      | **Średnie**           |
-| Tryb filtrowania tekstur                      | **Anizotropowe 16X**  |
-| Detale shadera                                | **Niska**             |
-| Szczegóły cząsteczek                          | **Niskie**            |
-| Okluzja otoczenia                             | **Wył.**              |
-| High Dynamic Range                            | **Jakość**            |
-| FidelityFX Super Resolution              | **Wył. (najwyższa jakość)**|
-| Tryb niskiego opóźnienia NVIDIA Reflex        | **Wł.**               |
+| Boost Player Contrast                         | **Enabled**           |
+| Wait for Vertical Sync                        | **Disabled**          |
+| Multisampling Anti-Aliasing Mode              | **2x MSAA**           |
+| Global Shadow Quality                         | **Low**               |
+| Model / Texture Detail                        | **Medium**            |
+| Texture Filtering Mode                        | **Anisotropic 16x**   |
+| Shader Detail                                 | **Low**               |
+| Particle Detail                               | **Low**               |
+| Ambient Occlusion                             | **Disabled**          |
+| High Dynamic Range                            | **Quality**           |
+| FidelityFX Super Resolution              | **Disabled (Highest Quality)**|
+| NVIDIA Reflex Low Latency                     | **Enabled**           |
