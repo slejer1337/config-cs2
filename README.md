@@ -12,6 +12,25 @@
 | cm/360°                                       | **57.73 cm**          |
 
 # ・Crosshair
+| Settings                                      | Options               |
+|-----------------------------------------------|-----------------------|
+| Style                                         | **Classic Static**    |
+| Follow Recoil                                 | **No**                |
+| Dot                                           | **No**                |
+| Length                                        | **1.5**               |
+| Thickness                                     | **0.5**               |
+| Gap                                           | **-1.5**              |
+| Outline                                       | **Yes**               |
+| Outlinethickness                              | **0.5**               |
+| Color                                         | **Custom**            |
+| Red                                           | **255**               |
+| Green                                         | **255**               |
+| Blue                                          | **255**               |
+| Alpha                                         | **Yes**               |
+| Alpha Value                                   | **180**               |
+| T Style                                       | **No**                |
+| Deployed Weapon Gap                           | **No**                |
+| Sniper Width                                  | **1**                 |
 > CSGO-PHity-FJJJn-Oa9DP-fZcop-Z9GSQ
 
 # ・Viewmodel
