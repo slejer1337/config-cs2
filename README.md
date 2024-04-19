@@ -24,13 +24,14 @@ Szybkość wskaźnika (Windows) - 6 / 11
 EDPI - 720
 cm/360° - 57.73 cm
 
-// Obraz
-Jasność - 93%
-Proporcje ekranu - 4:3
-Resolution - 1280x960 (STRETCHED)
-Tryb wyświetlania - Pełny ekran
-Refresh Rate - 170 Hz
-
+# ・Obraz
+| Ustawienia                                    | Opcje                 |
+|-----------------------------------------------|-----------------------|
+| Jasność                                       | **93%**               |
+| Proporcje ekranu                              | **4:3**               |
+| Resolution                                    | **1280x960 (STRETCHED)**|
+| Tryb wyświetlania                             | **Pełny ekran**       |
+| Refresh Rate                                  | **170 Hz**            |
 
 # ・Zaawansowane ustawienia obrazu
 | Ustawienia                                    | Opcje                 |
