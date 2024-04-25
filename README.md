@@ -1,4 +1,4 @@
-[**Changelog configu**](https://github.com/slejer1337/config-cs2/commits/main)
+[**Changelog config**](https://github.com/slejer1337/config-cs2/commits/main)
 
 #  CS2 Settings
 # ・Mouse
