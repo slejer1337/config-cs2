@@ -1,8 +1,8 @@
-➜ Monitor: Gigabyte G27F 2
-➜ Mouse: SteelSeries Rival 3
-➜ Mousepad: Interlook MP-003L
-➜ Keyboard: Endorfy Thock TKL Kailh Red
-➜ Headphones: SPC GEAR Viro Plus
+1. Monitor: Gigabyte G27F 2
+2. Mouse: SteelSeries Rival 3
+3. Mousepad: Interlook MP-003L
+4. Keyboard: Endorfy Thock TKL Kailh Red
+5. Headphones: SPC GEAR Viro Plus
 
 #  CS2 Settings
 # ・Mouse
