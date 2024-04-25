@@ -86,6 +86,7 @@
 | setting.lb_barnlight_shadowmap_scale          | **0.500000**          |
 | setting.lb_enable_shadow_casting              | **1**                 |
 > The cs2_video.txt file must be set to "read only" in the properties.
+
 `C:\Program Files (x86)\Steam\userdata\YOUR_ID\730\local\cfg`
 
 # ・HUD
