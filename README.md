@@ -77,6 +77,7 @@
 | FidelityFX Super Resolution              | **Disabled (Highest Quality)**|
 | NVIDIA Reflex Low Latency                     | **Enabled**           |
 
+![shadow](https://github.com/slejer1337/config-cs2/assets/96740708/fbb8a4c4-c8cd-419f-9e63-2f6f567a86d3)
 
 # ・HUD
 | Settings                                      | Options               |
