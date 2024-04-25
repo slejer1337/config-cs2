@@ -1,3 +1,5 @@
+[url=[https://github.com/slejer1337/config-cs2/commits/main]Changelog config[/url]
+📥・Instalacja
 #  CS2 Settings
 # ・Mouse
 | Settings                                      | Options               |
