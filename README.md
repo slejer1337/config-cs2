@@ -1,9 +1,3 @@
-1. Monitor: Gigabyte G27F 2
-2. Mouse: SteelSeries Rival 3
-3. Mousepad: Interlook MP-003L
-4. Keyboard: Endorfy Thock TKL Kailh Red
-5. Headphones: SPC GEAR Viro Plus
-
 #  CS2 Settings
 # ・Mouse
 | Settings                                      | Options               |
@@ -92,7 +86,6 @@
 | setting.lb_barnlight_shadowmap_scale          | **0.500000**          |
 | setting.lb_enable_shadow_casting              | **1**                 |
 > The cs2_video.txt file must be set to "read only" in the properties.
-
 `C:\Program Files (x86)\Steam\userdata\YOUR_ID\730\local\cfg`
 
 # ・HUD
@@ -115,3 +108,11 @@
 | Radar Hud Size                                | **1.15**              |
 | Radar Map Zoom                                | **0.35**              |
 > cl_hud_radar_scale 1.15;cl_radar_scale 0.35;cl_radar_always_centered 0;cl_radar_rotate 0;cl_radar_icon_scale_min 0.9
+
+
+# ・Equipment
+1. Monitor: Gigabyte G27F 2
+2. Mouse: SteelSeries Rival 3
+3. Mousepad: Interlook MP-003L
+4. Keyboard: Endorfy Thock TKL Kailh Red
+5. Headphones: SPC GEAR Viro Plus
