@@ -79,18 +79,6 @@
 | FidelityFX Super Resolution              | **Disabled (Highest Quality)**|
 | NVIDIA Reflex Low Latency                     | **Enabled**           |
 
-# ・File cs2_video.txt
-| Settings                                      | Options               |
-|-----------------------------------------------|-----------------------|
-| etting.csm_max_shadow_dist_override           | **720**               |
-| setting.lb_shadow_texture_width_override      | **2048**              |
-| setting.lb_shadow_texture_height_override     | **3072**              |
-| setting.lb_barnlight_shadowmap_scale          | **0.500000**          |
-| setting.lb_enable_shadow_casting              | **1**                 |
-> The cs2_video.txt file must be set to "read only" in the properties.
-
-`C:\Program Files (x86)\Steam\userdata\YOUR_ID\730\local\cfg`
-
 # ・HUD
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
