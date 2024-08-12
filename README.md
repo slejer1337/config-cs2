@@ -13,30 +13,6 @@
 | eDPI                                          | **720**               |
 | cm/360°                                       | **57.73 cm**          |
 
-
-# ・Crosshair
-| Settings                                      | Options               |
-|-----------------------------------------------|-----------------------|
-| Style                                         | **Classic Static**    |
-| Follow Recoil                                 | **No**                |
-| Dot                                           | **No**                |
-| Length                                        | **1.5**               |
-| Thickness                                     | **0.5**               |
-| Gap                                           | **-1.5**              |
-| Outline                                       | **Yes**               |
-| Outlinethickness                              | **0.5**               |
-| Color                                         | **Custom**            |
-| Red                                           | **255**               |
-| Green                                         | **255**               |
-| Blue                                          | **255**               |
-| Alpha                                         | **Yes**               |
-| Alpha Value                                   | **180**               |
-| T Style                                       | **No**                |
-| Deployed Weapon Gap                           | **No**                |
-| Sniper Width                                  | **1**                 |
-> CSGO-PHity-FJJJn-Oa9DP-fZcop-Z9GSQ
-
-
 # ・Viewmodel
 | Settings                                      | Options               |
 |-----------------------------------------------|-----------------------|
@@ -50,7 +26,7 @@
 
 
 # ・Launch Options
-> -threads 9 +exec autoexec -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high -nojoy +joystick_force_disabled
+> -threads 9 +exec autoexec -fullscreen -w 1280 -h 960 -refresh 170 -freq 170 -high +mat_queue_mode 2 -forcepreload 1 -nojoy +joystick_force_disabled
 
 
 # ・Video
@@ -70,8 +46,9 @@
 | Wait for Vertical Sync                        | **Disabled**          |
 | Multisampling Anti-Aliasing Mode              | **2x MSAA**           |
 | Global Shadow Quality                         | **Low**               |
-| Model / Texture Detail                        | **Medium**            |
-| Texture Filtering Mode                        | **Anisotropic 16x**   |
+| Dynamic Shadows                               | **All**               |
+| Model / Texture Detail                        | **Low**               |
+| Texture Filtering Mode                        | **Bilinear**          |
 | Shader Detail                                 | **Low**               |
 | Particle Detail                               | **Low**               |
 | Ambient Occlusion                             | **Disabled**          |
