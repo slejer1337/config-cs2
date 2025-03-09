@@ -1,4 +1,4 @@
-"video.cfg" test
+"video.cfg"
 {
 	"setting.defaultres"		"1280"
 	"setting.defaultresheight"		"960"
