@@ -17,7 +17,6 @@
 ➜ Zasilacz: SilentiumPC Vero M3 Bronze 600W.
 
 > Obudowa: SilentiumPC Regnum RG6V EVO TG ARGB.
-
 > Karta sieciowa: Asus USB-AX56.
 
 
