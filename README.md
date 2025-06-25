@@ -16,9 +16,9 @@
 
 ➜ Zasilacz: SilentiumPC Vero M3 Bronze 600W.
 
-➜ Obudowa: SilentiumPC Regnum RG6V EVO TG ARGB.
+> Obudowa: SilentiumPC Regnum RG6V EVO TG ARGB.
 
-➜ Karta sieciowa: Asus USB-AX56.
+> Karta sieciowa: Asus USB-AX56.
 
 
 ➜ Monitor główny: Gigabyte GS27QXA 27" 2560 x 1440px SS IPS 260Hz 1 ms.
