@@ -2,7 +2,7 @@
 {
 	"setting.defaultres"		"1280"
 	"setting.defaultresheight"		"960"
-	"setting.refreshrate_numerator"		"170"
+	"setting.refreshrate_numerator"		"240"
 	"setting.refreshrate_denominator"		"1"
 	"setting.fullscreen"		"1"
 	"setting.mat_vsync"		"0"
