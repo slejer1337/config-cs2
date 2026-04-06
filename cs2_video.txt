@@ -9,7 +9,7 @@
 	"setting.knowndevice"		"0"
 	"setting.defaultres"		"1280"
 	"setting.defaultresheight"		"1024"
-	"setting.refreshrate_numerator"		"240002"
+	"setting.refreshrate_numerator"		"239938"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
 	"setting.coop_fullscreen"		"0"
@@ -30,6 +30,6 @@
 	"setting.videocfg_hdr_detail"		"-1"
 	"setting.videocfg_fsr_detail"		"0"
 	"setting.monitor_index"		"0"
-	"setting.r_low_latency"		"1"
+	"setting.r_low_latency"		"2"
 	"setting.aspectratiomode"		"0"
 }
