@@ -8,7 +8,7 @@
 	"setting.gpu_level"		"3"
 	"setting.knowndevice"		"0"
 	"setting.defaultres"		"1280"
-	"setting.defaultresheight"		"1024"
+	"setting.defaultresheight"		"960"
 	"setting.refreshrate_numerator"		"239938"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
