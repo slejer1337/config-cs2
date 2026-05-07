@@ -1,4 +1,4 @@
-[**Changelog configu**](https://github.com/XIIIG/config-cs2/commits/main)
+[**Changelog configu**](https://github.com/slejer1337/config-cs2/commits/main)
 
 ・Opcje uruchamiania
 ===
