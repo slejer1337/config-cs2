@@ -3,4 +3,4 @@
 ・Opcje uruchamiania
 ===
 
-+exec autoexec -fullscreen -w 1280 -h 960 -refresh 240 -high
++exec autoexec -fullscreen -w 1280 -h 1024 -refresh 240 -high
