@@ -30,6 +30,6 @@
 	"setting.videocfg_hdr_detail"		"-1"
 	"setting.videocfg_fsr_detail"		"0"
 	"setting.monitor_index"		"0"
-	"setting.r_low_latency"		"2"
+	"setting.r_low_latency"		"1"
 	"setting.aspectratiomode"		"0"
 }
