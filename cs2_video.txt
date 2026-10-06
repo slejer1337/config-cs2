@@ -9,7 +9,7 @@
 	"setting.knowndevice"		"0"
 	"setting.defaultres"		"1280"
 	"setting.defaultresheight"		"1024"
-	"setting.refreshrate_numerator"		"239938"
+	"setting.refreshrate_numerator"		"240002"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
 	"setting.coop_fullscreen"		"0"
